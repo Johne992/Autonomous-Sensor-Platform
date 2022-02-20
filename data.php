@@ -116,7 +116,7 @@ function initMap() {
 }
     </script>
     <script async defer
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC5PIdkx0leUj4LLCnaRIbnEeEuN-BSwKE&callback=initMap">
+      src="https://maps.googleapis.com/maps/api/js?key=___&callback=initMap">
     </script>
 		<hr>
       <footer>
